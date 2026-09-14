@@ -32,4 +32,4 @@ The student grade report will appear in the terminal.
 
 A short video demonstration of this project can be viewed here:
 
-VIDEO LINK WILL BE ADDED HERE
+https://www.loom.com/share/5c9fa4f7a4d54ad5a53cc57a3cb97f75
